@@ -1,0 +1,14 @@
+body{
+    
+    color: rgb(67, 33, 146);
+}
+.font1{
+    
+    font-family: 'Kolker Brush', cursive;
+    color: rgb(67, 33, 146);
+}
+.heading{
+    font-family: 'Kaushan Script', cursive;
+    color:brown;
+    font-size: 70px;
+}
